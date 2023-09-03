@@ -12,7 +12,7 @@
     Site Wikipédia
 </h1>
 <img align="center" src="./img/wikipedia.jpg" width="100%">
-<br><br><hr>
+<br><hr>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
